@@ -81,7 +81,7 @@ I believe in learning by **building, experimenting, and improving every day.** �
 
 ## 🔝 Top Contributed Project
 
-![Top Contributed Project](./assets/top-contributed.svg)
+[![Top Contributed Project](./assets/top-contributed.svg)](https://github.com/...)
 
 ### 🧑‍💻 My GitHub Profile
 
