@@ -79,11 +79,9 @@ I believe in learning by **building, experimenting, and improving every day.** �
 
 ![](https://github-profile-trophy.vercel.app/?username=Abhikk-Ghosh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🔝 Top Contributed Project
 
-## 🔝 Top Contributed Repositories:
-
-![](https://github-contributor-stats.vercel.app/api?username=Abhikk-Ghosh&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+![Top Contributed Project](./assets/top-contributed.svg)
 
 ### 🧑‍💻 My GitHub Profile
 
